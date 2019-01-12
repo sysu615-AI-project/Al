@@ -21,6 +21,3 @@ $ npm run serve
 ### 测试结果
 
 ![1545973958667](./images/1.png)
-
-![](./images/2.png)
-
