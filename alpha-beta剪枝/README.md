@@ -20,7 +20,7 @@ $ npm run serve
 
 ### 测试结果
 
-![1545973958667](./images/1.PNG)
+![1545973958667](./images/1.png)
 
-![](./images/2.PNG)
+![](./images/2.png)
 
